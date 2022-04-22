@@ -3,5 +3,8 @@
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "twilio": "^3.76.1"
+  },
+  "scripts": {
+    "start": "node respond_sms.js"
   }
 }
